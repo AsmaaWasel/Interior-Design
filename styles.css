@@ -1,0 +1,70 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+p {
+  color: #545454;
+}
+.card-title {
+  font-size: 100px;
+  font-weight: bold;
+}
+.custom-line-height {
+  line-height: 42.12px;
+}
+/* Top Button  */
+.section-1 {
+  position: relative;
+  padding-bottom: 100px;
+}
+.bottom-right-box {
+  position: absolute;
+  bottom: 80px;
+  right: 100px;
+  width: 100px;
+  height: 100px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  font-size: 50px;
+}
+/* section-2 */
+/* section-2-logos */
+.card-img-top {
+  width: 72px;
+  height: 72px;
+}
+/* section-3 */
+/* section-4 */
+.circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: relative;
+  margin-top: -20px;
+}
+/* section-5 */
+
+.divider {
+  height: 100%;
+  width: 2px;
+}
+
+.section-5-card-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+/* footer */
+.search-container {
+  top: -20px;
+}
+
+footer {
+  padding-top: 100px;
+}
+.search-input {
+  width: 600px;
+}
